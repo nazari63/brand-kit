@@ -44,3 +44,4 @@ Located in [/fonts](fonts/).
 | ![SymbolBlue](logo/symbol/Base_Symbol_Blue.svg)   | ![WordmarkBlue](logo/wordmark/Base_Wordmark_Blue.svg)   |
 | ![SymbolWhite](logo/symbol/Base_Symbol_White.svg) | ![WordmarkWhite](logo/wordmark/Base_Wordmark_White.svg) |
 | ![SymbolBlack](logo/symbol/Base_Symbol_Black.svg) | ![WordmarkBlack](logo/wordmark/Base_Wordmark_Black.svg) |
+This project is a demonstration of blockchain technology and smart contract integration.
